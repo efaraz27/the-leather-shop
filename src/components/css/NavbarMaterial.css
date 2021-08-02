@@ -7,3 +7,17 @@
 .btn{
     margin: 0px 15px;
 }
+
+
+@media screen and (max-width:760px) {
+	.nav-btns{
+		display: none;
+	}
+}
+
+
+@media screen and (min-width:760px) {
+	.drawer{
+		display: none;
+	} 
+}
