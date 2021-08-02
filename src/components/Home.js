@@ -34,10 +34,11 @@ const Home = () => {
         description: 'We use premium tools to craft premium products',
         button: 'Read More',
     }]
+
     return(
         <div className='Home'>
             <div className='wrapper'>
-                <Slider className="slider-wrapper">
+                <Slider className="slider-wrapper" autoplay={true} infiniteLoop={true} autoFocus={true} interval={1000}>
                 {slides.map((item, index) => (
                     <div
                         key={index}
