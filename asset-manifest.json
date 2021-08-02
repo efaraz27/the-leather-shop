@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/the-leather-shop/static/css/main.0d54e937.chunk.css",
-    "main.js": "/the-leather-shop/static/js/main.78378a54.chunk.js",
-    "main.js.map": "/the-leather-shop/static/js/main.78378a54.chunk.js.map",
+    "main.css": "/the-leather-shop/static/css/main.34c8eaf4.chunk.css",
+    "main.js": "/the-leather-shop/static/js/main.92ef9d37.chunk.js",
+    "main.js.map": "/the-leather-shop/static/js/main.92ef9d37.chunk.js.map",
     "runtime-main.js": "/the-leather-shop/static/js/runtime-main.3a398bb2.js",
     "runtime-main.js.map": "/the-leather-shop/static/js/runtime-main.3a398bb2.js.map",
     "static/css/2.8887c2d4.chunk.css": "/the-leather-shop/static/css/2.8887c2d4.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.b28665dc.chunk.js.map": "/the-leather-shop/static/js/3.b28665dc.chunk.js.map",
     "index.html": "/the-leather-shop/index.html",
     "static/css/2.8887c2d4.chunk.css.map": "/the-leather-shop/static/css/2.8887c2d4.chunk.css.map",
-    "static/css/main.0d54e937.chunk.css.map": "/the-leather-shop/static/css/main.0d54e937.chunk.css.map",
+    "static/css/main.34c8eaf4.chunk.css.map": "/the-leather-shop/static/css/main.34c8eaf4.chunk.css.map",
     "static/js/2.f33964aa.chunk.js.LICENSE.txt": "/the-leather-shop/static/js/2.f33964aa.chunk.js.LICENSE.txt",
     "static/media/1.9c9aded8.jpg": "/the-leather-shop/static/media/1.9c9aded8.jpg",
     "static/media/2.721883cd.jpg": "/the-leather-shop/static/media/2.721883cd.jpg",
@@ -22,6 +22,7 @@
     "static/media/belt.1798128a.jpg": "/the-leather-shop/static/media/belt.1798128a.jpg",
     "static/media/clutchbag.54877eb7.jpg": "/the-leather-shop/static/media/clutchbag.54877eb7.jpg",
     "static/media/handbag.5c8f8ec7.jpg": "/the-leather-shop/static/media/handbag.5c8f8ec7.jpg",
+    "static/media/logo.6cd45867.png": "/the-leather-shop/static/media/logo.6cd45867.png",
     "static/media/luggagebag.3123a3d1.jpg": "/the-leather-shop/static/media/luggagebag.3123a3d1.jpg",
     "static/media/Home.css": "/the-leather-shop/static/media/next.82cd7427.png",
     "static/media/phonecase.16105b04.jpg": "/the-leather-shop/static/media/phonecase.16105b04.jpg",
@@ -32,7 +33,7 @@
     "static/js/runtime-main.3a398bb2.js",
     "static/css/2.8887c2d4.chunk.css",
     "static/js/2.f33964aa.chunk.js",
-    "static/css/main.0d54e937.chunk.css",
-    "static/js/main.78378a54.chunk.js"
+    "static/css/main.34c8eaf4.chunk.css",
+    "static/js/main.92ef9d37.chunk.js"
   ]
 }
