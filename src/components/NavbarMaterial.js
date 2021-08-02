@@ -6,6 +6,7 @@ import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
 import ProductsBtn from "./ProductsBtn";
 import Drawer from './Drawer'
+import logo from '../assets/logo.png'
 import './css/NavbarMaterial.css'
 
 export default function ButtonAppBar() {
@@ -15,7 +16,7 @@ export default function ButtonAppBar() {
                 <Toolbar>
                     <div className='drawer'> <Drawer/> </div>
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                        The Leather Shop
+                        <div className='logo'><img src={logo} alt='The Leather'></img></div>
                     </Typography>
                     <div className='nav-btns'>
                         <div className='btn'><Button color="inherit">Home</Button></div>
