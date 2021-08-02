@@ -1,0 +1,9 @@
+.nav-btns{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.btn{
+    margin: 0px 15px;
+}
