@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/the-leather-shop/static/css/main.23124ef8.chunk.css",
+    "main.js": "/the-leather-shop/static/js/main.2bdd5316.chunk.js",
+    "main.js.map": "/the-leather-shop/static/js/main.2bdd5316.chunk.js.map",
+    "runtime-main.js": "/the-leather-shop/static/js/runtime-main.9aad6681.js",
+    "runtime-main.js.map": "/the-leather-shop/static/js/runtime-main.9aad6681.js.map",
+    "static/js/2.42190c32.chunk.js": "/the-leather-shop/static/js/2.42190c32.chunk.js",
+    "static/js/2.42190c32.chunk.js.map": "/the-leather-shop/static/js/2.42190c32.chunk.js.map",
+    "static/js/3.6f305c2c.chunk.js": "/the-leather-shop/static/js/3.6f305c2c.chunk.js",
+    "static/js/3.6f305c2c.chunk.js.map": "/the-leather-shop/static/js/3.6f305c2c.chunk.js.map",
+    "index.html": "/the-leather-shop/index.html",
+    "static/css/main.23124ef8.chunk.css.map": "/the-leather-shop/static/css/main.23124ef8.chunk.css.map",
+    "static/js/2.42190c32.chunk.js.LICENSE.txt": "/the-leather-shop/static/js/2.42190c32.chunk.js.LICENSE.txt",
+    "static/media/backpack.fe74fd26.jpeg": "/the-leather-shop/static/media/backpack.fe74fd26.jpeg",
+    "static/media/belt.1798128a.jpg": "/the-leather-shop/static/media/belt.1798128a.jpg",
+    "static/media/clutchbag.54877eb7.jpg": "/the-leather-shop/static/media/clutchbag.54877eb7.jpg",
+    "static/media/handbag.5c8f8ec7.jpg": "/the-leather-shop/static/media/handbag.5c8f8ec7.jpg",
+    "static/media/Home.css": "/the-leather-shop/static/media/home-img.fa15631f.jpg",
+    "static/media/luggagebag.3123a3d1.jpg": "/the-leather-shop/static/media/luggagebag.3123a3d1.jpg",
+    "static/media/phonecase.16105b04.jpg": "/the-leather-shop/static/media/phonecase.16105b04.jpg",
+    "static/media/shoes.cb34175c.jpg": "/the-leather-shop/static/media/shoes.cb34175c.jpg",
+    "static/media/wallet.a4dfcc8f.jpg": "/the-leather-shop/static/media/wallet.a4dfcc8f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aad6681.js",
+    "static/js/2.42190c32.chunk.js",
+    "static/css/main.23124ef8.chunk.css",
+    "static/js/main.2bdd5316.chunk.js"
+  ]
+}
