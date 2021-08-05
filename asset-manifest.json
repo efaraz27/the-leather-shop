@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/the-leather-shop/static/css/main.1eef60da.chunk.css",
-    "main.js": "/the-leather-shop/static/js/main.321fde16.chunk.js",
-    "main.js.map": "/the-leather-shop/static/js/main.321fde16.chunk.js.map",
-    "runtime-main.js": "/the-leather-shop/static/js/runtime-main.3a398bb2.js",
-    "runtime-main.js.map": "/the-leather-shop/static/js/runtime-main.3a398bb2.js.map",
+    "main.css": "/the-leather-shop/static/css/main.d7dc1424.chunk.css",
+    "main.js": "/the-leather-shop/static/js/main.f19c0405.chunk.js",
+    "main.js.map": "/the-leather-shop/static/js/main.f19c0405.chunk.js.map",
+    "runtime-main.js": "/the-leather-shop/static/js/runtime-main.6aaa80c4.js",
+    "runtime-main.js.map": "/the-leather-shop/static/js/runtime-main.6aaa80c4.js.map",
     "static/css/2.8887c2d4.chunk.css": "/the-leather-shop/static/css/2.8887c2d4.chunk.css",
-    "static/js/2.f33964aa.chunk.js": "/the-leather-shop/static/js/2.f33964aa.chunk.js",
-    "static/js/2.f33964aa.chunk.js.map": "/the-leather-shop/static/js/2.f33964aa.chunk.js.map",
-    "static/js/3.b28665dc.chunk.js": "/the-leather-shop/static/js/3.b28665dc.chunk.js",
-    "static/js/3.b28665dc.chunk.js.map": "/the-leather-shop/static/js/3.b28665dc.chunk.js.map",
+    "static/js/2.fab674c3.chunk.js": "/the-leather-shop/static/js/2.fab674c3.chunk.js",
+    "static/js/2.fab674c3.chunk.js.map": "/the-leather-shop/static/js/2.fab674c3.chunk.js.map",
+    "static/js/3.5af432e0.chunk.js": "/the-leather-shop/static/js/3.5af432e0.chunk.js",
+    "static/js/3.5af432e0.chunk.js.map": "/the-leather-shop/static/js/3.5af432e0.chunk.js.map",
     "index.html": "/the-leather-shop/index.html",
     "static/css/2.8887c2d4.chunk.css.map": "/the-leather-shop/static/css/2.8887c2d4.chunk.css.map",
-    "static/css/main.1eef60da.chunk.css.map": "/the-leather-shop/static/css/main.1eef60da.chunk.css.map",
-    "static/js/2.f33964aa.chunk.js.LICENSE.txt": "/the-leather-shop/static/js/2.f33964aa.chunk.js.LICENSE.txt",
-    "static/media/1.9c9aded8.jpg": "/the-leather-shop/static/media/1.9c9aded8.jpg",
+    "static/css/main.d7dc1424.chunk.css.map": "/the-leather-shop/static/css/main.d7dc1424.chunk.css.map",
+    "static/js/2.fab674c3.chunk.js.LICENSE.txt": "/the-leather-shop/static/js/2.fab674c3.chunk.js.LICENSE.txt",
+    "static/media/1.08d162ad.jpg": "/the-leather-shop/static/media/1.08d162ad.jpg",
     "static/media/2.721883cd.jpg": "/the-leather-shop/static/media/2.721883cd.jpg",
     "static/media/3.dc64d1ae.jpg": "/the-leather-shop/static/media/3.dc64d1ae.jpg",
     "static/media/4.fa15631f.jpg": "/the-leather-shop/static/media/4.fa15631f.jpg",
@@ -26,14 +26,14 @@
     "static/media/luggagebag.3123a3d1.jpg": "/the-leather-shop/static/media/luggagebag.3123a3d1.jpg",
     "static/media/Home.css": "/the-leather-shop/static/media/next.82cd7427.png",
     "static/media/phonecase.16105b04.jpg": "/the-leather-shop/static/media/phonecase.16105b04.jpg",
-    "static/media/shoes.cb34175c.jpg": "/the-leather-shop/static/media/shoes.cb34175c.jpg",
+    "static/media/satchelbag.2f60e913.jpg": "/the-leather-shop/static/media/satchelbag.2f60e913.jpg",
     "static/media/wallet.a4dfcc8f.jpg": "/the-leather-shop/static/media/wallet.a4dfcc8f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a398bb2.js",
+    "static/js/runtime-main.6aaa80c4.js",
     "static/css/2.8887c2d4.chunk.css",
-    "static/js/2.f33964aa.chunk.js",
-    "static/css/main.1eef60da.chunk.css",
-    "static/js/main.321fde16.chunk.js"
+    "static/js/2.fab674c3.chunk.js",
+    "static/css/main.d7dc1424.chunk.css",
+    "static/js/main.f19c0405.chunk.js"
   ]
 }
