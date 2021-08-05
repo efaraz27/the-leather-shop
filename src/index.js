@@ -2,11 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import LanguageState from './contexts/LanguageState'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <LanguageState>
+      <App/>
+    </LanguageState>
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -69,7 +69,7 @@ export default function CustomizedMenus() {
                 onClick={handleClick}
                 endIcon={<KeyboardArrowDownIcon />}
             >
-                Products
+                Produkty
             </Button>
             <StyledMenu
                 id="demo-customized-menu"
@@ -81,22 +81,22 @@ export default function CustomizedMenus() {
                 onClose={handleClose}
             >
                 <MenuItem onClick={handleClose} disableRipple>
-                    Wallets
+                    Peněženky
                 </MenuItem>
                 <MenuItem onClick={handleClose} disableRipple>
-                    Belts
+                    Pásy
                 </MenuItem>
                 <MenuItem onClick={handleClose} disableRipple>
-                    Hand Bags
+                    Ruční tašky
                 </MenuItem>
                 <MenuItem onClick={handleClose} disableRipple>
-                    Satchel Bags
+                    Brašny
                 </MenuItem>
                 <MenuItem onClick={handleClose} disableRipple>
-                    Luggage Bags
+                    Tašky na zavazadla
                 </MenuItem>
                 <MenuItem onClick={handleClose} disableRipple>
-                    Phone Cases
+                    Pouzdra na telefony
                 </MenuItem>
             </StyledMenu>
         </div>

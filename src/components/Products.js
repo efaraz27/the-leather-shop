@@ -4,7 +4,7 @@ import './css/Products.css'
 
 
 //image imports
-import shoes from '../assets/shoes.jpg'
+import satchel from '../assets/satchelbag.jpg'
 import belt from '../assets/belt.jpg'
 import handbag from '../assets/handbag.jpg'
 import wallet from '../assets/wallet.jpg'
@@ -19,7 +19,7 @@ const Products = () => {
         <div className='products'>
             <div className='heading'>Products</div>
             <div className='products-container'>
-                <ProductCard image={shoes} header='Shoes' className='product-card'/>
+                <ProductCard image={satchel} header='Satchel Bags' className='product-card'/>
                 <ProductCard image={belt} header='Belts' className='product-card'/>
                 <ProductCard image={handbag} header='Hand Bags' className='product-card'/>
                 <ProductCard image={wallet} header='Wallets' className='product-card'/>

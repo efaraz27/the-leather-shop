@@ -7,7 +7,7 @@ import Button from '@material-ui/core/Button';
 import ProductsBtn from "./ProductsBtn";
 import LanguageBtn from './LanguageBtn'
 import Drawer from './Drawer'
-import logo from '../assets/logo.png'
+import logo from '../../assets/logo.png'
 import './css/NavbarMaterial.css'
 
 export default function ButtonAppBar() {
@@ -20,10 +20,10 @@ export default function ButtonAppBar() {
                         <div className='logo'><img src={logo} alt='The Leather'></img></div>
                     </Typography>
                     <div className='nav-btns'>
-                        <div className='btn'><Button color="inherit">Home</Button></div>
-                        <div className='btn'><Button color="inherit">About</Button></div>
+                        <div className='btn'><Button color="inherit">Domov</Button></div>
+                        <div className='btn'><Button color="inherit">Okolo</Button></div>
                         <div className='btn'><ProductsBtn/></div>
-                        <div className='btn'><Button color="inherit">Contact Us</Button></div>
+                        <div className='btn'><Button color="inherit">Kontaktujte nás</Button></div>
                         <div className='btn'><LanguageBtn/></div>
                     </div>
                     <div className='sp-btn'><LanguageBtn/></div>

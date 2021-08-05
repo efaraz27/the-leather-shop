@@ -1,9 +1,10 @@
-import * as React from 'react';
+import React, {useContext} from 'react';
 import { styled, alpha } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import Menu from '@material-ui/core/Menu';
 import MenuItem from '@material-ui/core/MenuItem';
 import KeyboardArrowDownIcon from '@material-ui/icons/KeyboardArrowDown';
+import LanguageContext from '../contexts/LanguageContext';
 
 const StyledMenu = styled((props) => (
     <Menu
@@ -56,6 +57,8 @@ export default function CustomizedMenus() {
         setAnchorEl(null);
     };
 
+    const {setLanguage} = useContext(LanguageContext)
+
     return (
         <div>
             <Button
@@ -69,7 +72,7 @@ export default function CustomizedMenus() {
                 onClick={handleClick}
                 endIcon={<KeyboardArrowDownIcon />}
             >
-                Products
+                Languages
             </Button>
             <StyledMenu
                 id="demo-customized-menu"
@@ -80,23 +83,11 @@ export default function CustomizedMenus() {
                 open={open}
                 onClose={handleClose}
             >
-                <MenuItem onClick={handleClose} disableRipple>
-                    Wallets
+                <MenuItem onClick={handleClose} disableRipple onClickCapture={()=>setLanguage('English')}>
+                    English
                 </MenuItem>
-                <MenuItem onClick={handleClose} disableRipple>
-                    Belts
-                </MenuItem>
-                <MenuItem onClick={handleClose} disableRipple>
-                    Hand Bags
-                </MenuItem>
-                <MenuItem onClick={handleClose} disableRipple>
-                    Satchel Bags
-                </MenuItem>
-                <MenuItem onClick={handleClose} disableRipple>
-                    Luggage Bags
-                </MenuItem>
-                <MenuItem onClick={handleClose} disableRipple>
-                    Phone Cases
+                <MenuItem onClick={handleClose} disableRipple onClickCapture={()=>setLanguage('Czech')}>
+                    Czech
                 </MenuItem>
             </StyledMenu>
         </div>

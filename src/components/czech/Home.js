@@ -5,34 +5,34 @@ import 'react-animated-slider/build/horizontal.css';
 import "./css/Home.css"
 
 //image imports
-import p1 from '../assets/1.jpg'
-import p2 from '../assets/2.jpg'
-import p3 from '../assets/3.jpg'
-import p4 from '../assets/4.jpg'
+import p1 from '../../assets/1.jpg'
+import p2 from '../../assets/2.jpg'
+import p3 from '../../assets/3.jpg'
+import p4 from '../../assets/4.jpg'
 
 
 
 const Home = () => {
     let slides = [{
         image: p1,
-        title: 'Belts',
-        description: 'Premium Leather Belts',
-        button: `Buy Belts`,
+        title: 'Pásy',
+        description: 'Prémiové kožené opasky',
+        button: `Kupte si pásy`,
     }, {
         image: p2,
-        title: 'Handmade Leather',
-        description: '100% Hand Crafted Premium Leather',
-        button: 'Read More',
+        title: 'Ručně vyráběná kůže',
+        description: '100% ručně vyrobená prémiová kůže',
+        button: 'Přečtěte si více',
     },{
         image: p3,
-        title: 'Skilled Professionals',
-        description: 'Experienced and Skilled Professionals',
-        button: 'Read More',
+        title: 'Kvalifikovaní profesionálové',
+        description: 'Zkušení a zruční profesionálové',
+        button: 'Přečtěte si více',
     },{
         image: p4,
-        title: 'Premium Tools',
-        description: 'We use premium tools to craft premium products',
-        button: 'Read More',
+        title: 'Prémiové nástroje',
+        description: 'K výrobě prémiových produktů používáme prémiové nástroje',
+        button: 'Přečtěte si více',
     }]
 
     return(
